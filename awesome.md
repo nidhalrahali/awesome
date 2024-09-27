@@ -24,6 +24,8 @@ Add an awesome badge to the top of your list, right next to the title. [Example]
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 ```
 
+You are allowed to use the badge on lists not included here and also on private lists.
+
 *The badges should not be modified in any way.*
 
 ## Awesome mentioned badge
@@ -76,8 +78,8 @@ If you don't feel like writing one from scratch, feel free to take our [contribu
 
 ## Stylize your list properly
 
-Create a [table of contents](https://github.com/sindresorhus/stuff/blob/master/toc-generators.md), organize the content into different categories, and use images if suitable. Ensure all entries are consistent (e.g. all entry descriptions end in a `.`).
+Create a [table of contents](https://github.com/sindresorhus/stuff/blob/main/toc-generators.md), organize the content into different categories, and use images if suitable. Ensure all entries are consistent (e.g. all entry descriptions end in a `.`).
 
 ## Accept other people's opinion
 
-If you're an owner of the list, respect other people's opinion. If there are plenty of users not agreeing to your decision, give it a second thought.
+If you're an owner of the list, respect other people's opinions. If there are plenty of users not agreeing with your decision, give it a second thought.
